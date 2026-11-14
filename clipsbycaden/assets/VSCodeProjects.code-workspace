@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../TestProject"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "VSCodeProjects"
+	}
+}
